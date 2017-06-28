@@ -1,0 +1,36 @@
+.Nav {
+  background-color: #5283c7;
+  color: white;
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  width: 33.33%;
+  align-items: center;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 33.33%;
+}
+
+.menu {
+  width: 33.33%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+}
+
+ul.menu>li {
+  list-style-type: none;
+}
+
+ul.menu>li:hover {
+  color: #b6b6b6;
+  cursor: pointer;
+}

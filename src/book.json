@@ -1,0 +1,12 @@
+{
+  "0":{
+        "name":"book name",
+        "info":"information",
+        "url": {
+          "download":"",
+          "img": {
+            "0":""
+          }
+        }
+      }
+}
