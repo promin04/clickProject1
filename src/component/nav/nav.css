@@ -11,6 +11,11 @@
   align-items: center;
 }
 
+.logo>h2:hover {
+  cursor:pointer;
+}
+
+
 .search {
   display: flex;
   justify-content: center;
